@@ -1,6 +1,6 @@
 # Mouse Price Prediction with ML
 
-## about this
+## About this
 the main purpose is prediction of mouse prices and for this I use vary ML model to train data 
 ### Project start date
 2022
