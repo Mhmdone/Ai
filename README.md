@@ -2,6 +2,7 @@
 
 ## about this
 the main purpose is prediction of mouse prices and for this I use vary ML model to train data 
+> Date :
 ### Data source
 Data source mostly is from Digikala and Turob website
 
@@ -12,3 +13,7 @@ Adaboost
 Randsomforest
 Decesion tree
 Lightgbm
+SVR
+
+and also some alg for preprocessing data
+
