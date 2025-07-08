@@ -2,7 +2,8 @@
 
 ## about this
 the main purpose is prediction of mouse prices and for this I use vary ML model to train data 
-> Date :
+### Date of Project creation 
+2022 \n
 ### Data source
 Data source mostly is from Digikala and Turob website
 
